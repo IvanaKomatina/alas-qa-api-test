@@ -1,8 +1,9 @@
 {
   "devDependencies": {
+    "@faker-js/faker": "6",
     "cypress": "^10.6.0"
   },
-  "name": "AlasZadatak2",
+  "name": "alas-zadatak-2",
   "version": "1.0.0",
   "main": "index.js",
   "license": "MIT"
