@@ -1,6 +1,5 @@
 {
     "env": {
-        "name" : "qa",
-        "baseAPI" : "https://gorest.co.in//public/v2"
+        "baseAPI" : "https://gorest.co.in/public/v2"
     }
 }
