@@ -1,0 +1,9 @@
+{
+  "devDependencies": {
+    "cypress": "^10.6.0"
+  },
+  "name": "AlasZadatak2",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT"
+}
